@@ -1,7 +1,6 @@
 {
-  "name": "game-of-code",
+  "name": "workspace",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://maiaracrizel.github.io",
   "dependencies": {
     "dayjs": "^1.8.12",
